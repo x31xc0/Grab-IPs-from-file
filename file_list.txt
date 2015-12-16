@@ -1,0 +1,10 @@
+# file_list.txt
+#
+# This file will be used by grab_ips.sh as a collection of locations to read from
+# Please only enter the full paths to the file locations and nothing else.
+# e.g. /var/log/auth.log
+#
+/var/log/apache2/error.log
+/var/log/apache2/access.log
+/var/log/messages
+/var/log/auth.log
